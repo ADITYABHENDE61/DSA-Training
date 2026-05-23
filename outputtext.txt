@@ -1,0 +1,1 @@
+X function is a python is define by a def statement. python Xhe general syntax looks like this: def function_name(parameters): function-name(Xarameter list): statement, i.e the function body . Xhe parameter python list consists of none or more parameters.
